@@ -3,3 +3,9 @@ dist
 .DS_Store
 *.local
 .claude
+*.zip
+niladri-raw.jpg
+niladri-cutout.png
+niladri-clean-cutout.png
+niladri-cropped-cutout.png
+test_*.png
